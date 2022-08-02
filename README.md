@@ -12,7 +12,7 @@ Además, se construirá un modelo predictivo teniendo en cuenta que los empleado
 Descripción del problema
 Atender el problema de burnout en los empleados de cualquier empresa, para mejorar su salud mental, la cual repercute en su desempeño. 
 
-*Indicación de la fuente del dataset*
+### *Indicación de la fuente del dataset*
 
 El dataset proviene de la página de Kaggle  el cual se compone de 22,750 registros agrupados en 9 variables:
 
