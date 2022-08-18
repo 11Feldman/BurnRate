@@ -1,35 +1,35 @@
 # BurnRate
 
-### *Descripción*
+### *Description*
 
-El burnout laboral, también denominado síndrome del quemado o síndrome de estar quemado en el trabajo, es un estado de agotamiento físico, emocional y mental que está vinculado con el ámbito laboral, el estrés causado por el trabajo y el estilo de vida del empleado. Puede tener consecuencias muy graves, tanto en la esfera física como psicológica.
+Work burnout, also called burned-out syndrome or syndrome of being burnt out at work, is a state of physical, emotional and mental exhaustion that is linked to the workplace, the stress caused by work and the employee's lifestyle. It can have very serious consequences, both physically and psychologically.
 
-### *Objetivos de la investigación*
-Identificar el nivel de burnout a partir del indicador burn rate, que va a partir del 0 al 1, entre valores más altos, más burnout presenta el empleado.
+### *Research objectives*
+Identify the level of burnout from the burn rate indicator, which ranges from 0 to 1, with higher values, the more burnout the employee presents.
  
 
-Además, se construirá un modelo predictivo teniendo en cuenta que los empleados felices y saludables son indiscutiblemente más productivos en el trabajo y, a su vez, ayudan a que el negocio progrese.
-Descripción del problema
-Atender el problema de burnout en los empleados de cualquier empresa, para mejorar su salud mental, la cual repercute en su desempeño. 
+In addition, a predictive model will be built taking into account that happy and healthy employees are indisputably more productive at work and, in turn, help the business progress.
+description of the problem
+Address the problem of burnout in the employees of any company, to improve their mental health, which affects their performance.
 
-### *Indicación de la fuente del dataset*
+### *Dataset source indication*
 
-El dataset proviene de la página de Kaggle  el cual se compone de 22,750 registros agrupados en 9 variables:
+The dataset comes from the Kaggle page which is made up of 22,750 records grouped into 9 variables:
 
-•	Employe ID: ID único para cada empleado
+• Employee ID: unique ID for each employee.
 
-•	Date of Joining: La fecha en la cual el empleado entró a la organización
+• Date of Joining: The date on which the employee joined the organization.
 
-•	Gender: género del empleado
+• Gender: gender of the employee.
 
-•	Tipo de compañía: tipo de compañía en la que el empleado está
+• Company type: type of company in which the employee is.
 
-•	WFH Setup Available: es un indicador que señala si el empleado tiene facilidades por parte de la empresa para realizar teletrabajo.
+• WFH Setup Available: is an indicator that indicates whether the employee has facilities from the company to perform telework.
 
-•	Designation: la designación de trabajo que tiene el empleado en la compañía
+• Designation: the job designation that the employee has in the company.
 
-•	Resource Allocation: la cantidad de recursos asignados al empleado, por ejemplo, número de horas. 
+• Resource Allocation – The amount of resources allocated to the employee, for example, number of hours.
 
-•	Mental Fatigue Score: el nivel de fatiga mental que el empleado muestra.
+• Mental Fatigue Score: the level of mental fatigue that the employee shows.
 
-•	Burn Rate: El valor que se necesita para predecir el burnout de cada empleado
+• Burn Rate: The value needed to predict the burnout of each employee.
